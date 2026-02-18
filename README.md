@@ -25,6 +25,23 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ---
 
+## Academic & Professional Experience
+
+- **Ph.D. Researcher**, Queensland University of Technology (QUT), Australia  
+  Conducted research in EV-EV trading systems and optimization.
+
+- **Super Tutor (Software Development Life Cycle)**, QUT — July 2025–Present  
+  Prepared tutorials, assignments, and supported students in LMS (Canvas).
+
+- **Sr. Lecturer**, Daffodil International University (DIU), Bangladesh
+
+- **Lecturer**, Daffodil International University (DIU), Bangladesh
+
+- **Research Fellow**, MoICT Division, Government of Bangladesh
+
+
+
+---
 ## Technical Expertise
 
 - **Languages:** Python | Java | PHP | NodeJs | JavaScript
