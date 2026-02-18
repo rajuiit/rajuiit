@@ -61,4 +61,4 @@ NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boostin
 
 ---
 
-> Designing scalable, intelligent, and optimization-driven systems for next-generation cyber-physical environments.
+> Designing scalable, intelligent, and optimization-driven EV-EV trading system.
