@@ -18,16 +18,14 @@ My research develops optimization-driven intelligent systems for smart mobility.
 
 ## Research Areas
 
-Machine Learning
-Cybersecurity
-Blockchain
-Internet of Things (IoT)
+Machine Learning | Cybersecurity | Blockchain | Matching Mechanism | OPtimization
+
 
 ---
 
 ## Technical Expertise
 
-**Languages:** Python | Java | SQL | LaTeX  
+**Languages:** Python | MLOps | DevOps | Data Engineering | Machine Learning
 
 **Methods:**  
 NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boosting  
