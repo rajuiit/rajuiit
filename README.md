@@ -10,9 +10,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Information Systems at Queensland University of Technology (QUT), Australia.
-
-My research develops optimization-driven intelligent systems for smart mobility. I focus on mathematically grounded modeling, scalable architectures, and decision-support mechanisms.
+I am a Ph.D. candidate in the School of Information Systems at Queensland University of Technology (QUT), Australia. My research develops optimization-driven intelligent systems for smart mobility. I focus on mathematically grounded modeling, scalable architectures, and decision-support mechanisms.
 
 ---
 
