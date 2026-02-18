@@ -18,9 +18,10 @@ My research develops optimization-driven intelligent systems for smart mobility.
 
 ## Research Areas
 
-- EV–EV Energy Trading and Coordination  
-- Learning-to-Rank for Charging Recommendation  
-- Multi-objective Evolutionary Algorithms (NSGA-II / NSGA-III)  
+Machine Learning
+Cybersecurity
+Blockchain
+Internet of Things (IoT)
 
 ---
 
