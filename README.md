@@ -51,8 +51,8 @@ NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boostin
 
 ## Contact
 
-📧 razon.hossain@hdr.qut.edu.au  
-🔗 LinkedIn: ADD_LINK  
+📧 mdmahfujur.rahman@hdr.qut.edu.au  
+🔗 LinkedIn: https://www.linkedin.com/in/mahfujurrahmanraju/  
 
 ---
 
