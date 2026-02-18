@@ -18,7 +18,11 @@ My research develops optimization-driven intelligent systems for smart mobility.
 
 ## Research Areas
 
-Machine Learning | Cybersecurity | Blockchain | Matching Mechanism | OPtimization
+- Machine Learning
+- Cybersecurity
+- Blockchain
+- Matching Mechanism
+- OPtimization
 
 
 ---
