@@ -27,8 +27,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## Academic & Professional Experience
 
-- **Ph.D. Researcher**, Queensland University of Technology (QUT), Australia  
-  Conducted research in EV-EV trading systems and optimization.
+- **Ph.D. Researcher**, Queensland University of Technology (QUT), Australia.
 
 - **Super Tutor (Software Development Life Cycle)**, QUT — July 2025–Present  
   Prepared tutorials, assignments, and supported students in LMS (Canvas).
