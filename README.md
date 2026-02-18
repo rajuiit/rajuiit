@@ -27,10 +27,12 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## Technical Expertise
 
-**Languages:** Python | MLOps | DevOps | Data Engineering | Machine Learning
+**Languages:** Python | Java | PHP | NodeJs | JavaScript 
+**Framework** Laravel | Express | Flask | Django
+**Database** MongoDB, MySQL
+**Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps
 
-**Methods:**  
-NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boosting  
+
 
 ---
 
