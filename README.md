@@ -1,16 +1,59 @@
-## Hi there 👋
+# Md Mahfujur Rahman
 
-<!--
-**rajuiit/rajuiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Candidate | Queensland University of Technology (QUT), Australia  
 
-Here are some ideas to get you started:
+[![IEEE Member](https://img.shields.io/badge/IEEE-Member-blue)](https://www.ieee.org/)
+[![Research Focus](https://img.shields.io/badge/Focus-Edge%20AI%20%7C%20EV--EV%20Trading-darkgreen)]
+[![Location](https://img.shields.io/badge/Based%20in-Australia-grey)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a Ph.D. candidate in the School of Information Systems at Queensland University of Technology (QUT), Australia.
+
+My research develops optimization-driven intelligent systems for smart mobility. I focus on mathematically grounded modeling, scalable architectures, and decision-support mechanisms.
+
+---
+
+## Research Areas
+
+- EV–EV Energy Trading and Coordination  
+- Learning-to-Rank for Charging Recommendation  
+- Multi-objective Evolutionary Algorithms (NSGA-II / NSGA-III)  
+
+---
+
+## Technical Expertise
+
+**Languages:** Python | Java | SQL | LaTeX  
+
+**Methods:**  
+NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boosting  
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuiit&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuiit&layout=compact)
+
+---
+
+## Academic Profiles
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](ADD_LINK)  
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](ADD_LINK)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-darkgreen?logo=researchgate)](ADD_LINK)
+
+---
+
+## Contact
+
+📧 razon.hossain@hdr.qut.edu.au  
+🔗 LinkedIn: ADD_LINK  
+
+---
+
+> Designing scalable, intelligent, and optimization-driven systems for next-generation cyber-physical environments.
