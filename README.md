@@ -27,10 +27,10 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## Technical Expertise
 
-**Languages:** Python | Java | PHP | NodeJs | JavaScript 
-**Framework** Laravel | Express | Flask | Django
-**Database** MongoDB, MySQL
-**Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps
+- **Languages:** Python | Java | PHP | NodeJs | JavaScript
+- **Framework** Laravel | Express | Flask | Django
+- **Database** MongoDB, MySQL
+- **Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps
 
 
 
