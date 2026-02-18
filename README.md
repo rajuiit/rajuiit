@@ -35,9 +35,10 @@ NSGA-II • LambdaRank • EM Mixture Models • Fuzzy MCDM • Gradient Boostin
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuiit&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuiit&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuiit&layout=compact)
+
 
 ---
 
