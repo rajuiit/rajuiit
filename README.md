@@ -67,7 +67,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## Academic Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)]((https://scholar.google.com/citations?hl=en&user=RYC2dIgAAAAJ&view_op=list_works&sortby=pubdate))  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=RYC2dIgAAAAJ&view_op=list_works&sortby=pubdate)  
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](ADD_LINK)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-darkgreen?logo=researchgate)](ADD_LINK)
 
