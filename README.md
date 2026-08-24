@@ -57,14 +57,6 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajuiit&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajuiit&layout=compact)
-
-&count_private=true
-
 ## GitHub Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanzirmehedi&theme=tokyonight)](https://github.com/rajuiit)
