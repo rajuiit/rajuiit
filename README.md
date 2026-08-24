@@ -20,6 +20,9 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/A-5955-2018)
 [![QUT Research Portal](https://img.shields.io/badge/QUT_Research_Portal-51247A?style=for-the-badge&logo=academia&logoColor=white)](https://portal.research.qut.edu.au/en/persons/md-mahfujur-rahman-2)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://juniv.academia.edu/MdMahfujurRahman)
+[![QUT Research Portal](https://img.shields.io/badge/QUT_Research_Portal-51247A?style=for-the-badge&logo=academia&logoColor=white)](https://portal.research.qut.edu.au/en/persons/md-mahfujur-rahman-2)
+[![QUT Trusted Networks](https://img.shields.io/badge/QUT_Trusted_Networks-51247A?style=for-the-badge&logoColor=white)](https://research.qut.edu.au/trustednetworks/people/md-mahfujur-rahman/)
+[![QUT iFive Computing](https://img.shields.io/badge/QUT_iFive_Computing-005A9C?style=for-the-badge&logoColor=white)](https://research.qut.edu.au/ifivecomputing/people/md-mahfujur-rahman/)
 
 ## Professional Profiles
 
