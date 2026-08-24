@@ -74,6 +74,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 - **Lecturer**, Daffodil International University (DIU), Bangladesh
 
 - **Research Fellow**, MoICT Division, Government of Bangladesh
+- **Software Engineer**, S3 Innovative, Singapore
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
