@@ -44,11 +44,13 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/mahfujurrahmanraju/)
 [![SlideShare](https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=slideshare&logoColor=white)](https://www2.slideshare.net/mahfujurrahmanraju)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## About Me
 
 I am a Ph.D. candidate in the School of Information Systems at Queensland University of Technology (QUT), Australia. My research develops optimization-driven intelligent systems for smart mobility. I focus on mathematically grounded modeling, scalable architectures, and decision-support mechanisms.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Research Areas
 
@@ -58,8 +60,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 - Matching Mechanism
 - OPtimization
 
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Academic & Professional Experience
 
@@ -74,20 +75,17 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 - **Research Fellow**, MoICT Division, Government of Bangladesh
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
----
 ## Technical Expertise
 
 - **Languages:** Python | Java | PHP | NodeJs | JavaScript
 - **Framework** Laravel | Express | Flask | Django
 - **Database** MongoDB, MySQL
-- **Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps
+- **Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps | Optimization
 
-
-
----
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## GitHub Statistics
 
