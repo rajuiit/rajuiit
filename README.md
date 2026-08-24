@@ -26,7 +26,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-sites&logoColor=white)](https://sites.google.com/view/mdmahfujurrahman)
 [![Faculty Profile](https://img.shields.io/badge/Faculty_Profile-006747?style=for-the-badge&logo=google-scholar&logoColor=white)](http://faculty.daffodilvarsity.edu.bd/profile/cse/mahfuj.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfujurrahmanraju/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mrrajuiit_865)
+
 
 ## Coding Profiles
 
