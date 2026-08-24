@@ -57,7 +57,6 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ---
 
-## GitHub Statistics
 
 ## GitHub Statistics
 
@@ -67,7 +66,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajuiit&theme=tokyonight&v=2)](https://github.com/rajuiit)
 
 
 
