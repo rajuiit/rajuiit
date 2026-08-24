@@ -94,15 +94,11 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 - **Combating COVID-19 Using Machine Learning and Deep Learning: Applications, Challenges, and Future Perspectives**, *Array*, Elsevier
 - **Predicting Students’ Performance of Private Universities in Bangladesh Using Machine Learning Approaches**, IJACSA
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
-
 #### Awards and Recognition
 
 - **Best Paper Award**, “A Digital Certificate Forgery Prevention Using Blockchain Technology,” International Conference on Big Data, IoT and Machine Learning (BIM), 2023
 - **Best Paper Award**, “Implementation of Real-Time Automated Attendance System Using Deep Learning,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2021
 - **Best Paper Award – Second Runner-Up**, “Cascade Classification of Face Liveliness Detection Using Heartbeat Measurement,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2020
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
 #### Research Affiliations
 
