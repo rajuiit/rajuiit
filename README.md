@@ -3,7 +3,7 @@
 Ph.D. Candidate | Queensland University of Technology (QUT), Australia  
 
 [![IEEE Member](https://img.shields.io/badge/IEEE-Member-blue)](https://www.ieee.org/)
-[![Research Focus](https://img.shields.io/badge/Focus-Edge%20AI%20%7C%20EV--EV%20Trading-darkgreen)]
+[![Research Focus](https://img.shields.io/badge/Focus-Edge%20AI%20%7C%20EV--EV%20Trading%20%7C%20Optimization-darkgreen)]
 [![Location](https://img.shields.io/badge/Based%20in-Australia-grey)]
 
 ![Citations](https://img.shields.io/badge/Citations-900+-blue) ![h-index](https://img.shields.io/badge/h--index-15-green) 
