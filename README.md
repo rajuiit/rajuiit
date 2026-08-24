@@ -11,6 +11,36 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## Research Profiles
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=RYC2dIgAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md_Rahman344)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3102-2099)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56412309700)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/A-5955-2018)
+[![QUT Research Portal](https://img.shields.io/badge/QUT_Research_Portal-51247A?style=for-the-badge&logo=academia&logoColor=white)](https://portal.research.qut.edu.au/en/persons/md-mahfujur-rahman-2)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://juniv.academia.edu/MdMahfujurRahman)
+
+## Professional Profiles
+
+[![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-sites&logoColor=white)](https://sites.google.com/view/mdmahfujurrahman)
+[![Faculty Profile](https://img.shields.io/badge/Faculty_Profile-006747?style=for-the-badge&logo=google-scholar&logoColor=white)](http://faculty.daffodilvarsity.edu.bd/profile/cse/mahfuj.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfujurrahmanraju/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mrrajuiit_865)
+
+## Coding Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajuiit)
+[![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/rajuiit/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mrrajuiit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajuiit/)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/mahfujurcse)
+
+## Learning and Presentations
+
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/fc3c61d62b6005b9fd5443c2190e3aec)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/mahfujurrahmanraju/)
+[![SlideShare](https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=slideshare&logoColor=white)](https://www2.slideshare.net/mahfujurrahmanraju)
 
 ## About Me
 
