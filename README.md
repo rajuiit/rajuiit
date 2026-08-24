@@ -141,18 +141,6 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
 
-
-
----
-
-## Academic Profiles
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=RYC2dIgAAAAJ&view_op=list_works&sortby=pubdate)  
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](ADD_LINK)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-darkgreen?logo=researchgate)](ADD_LINK)
-
----
-
 ## Contact
 
 📧 mdmahfujur.rahman@hdr.qut.edu.au  
