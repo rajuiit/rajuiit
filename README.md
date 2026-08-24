@@ -12,7 +12,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### Academic and Professional Profiles
-### Research Profiles
+#### Research Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=RYC2dIgAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md_Rahman344)
@@ -24,14 +24,14 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![QUT Trusted Networks](https://img.shields.io/badge/QUT_Trusted_Networks-51247A?style=for-the-badge&logoColor=white)](https://research.qut.edu.au/trustednetworks/people/md-mahfujur-rahman/)
 [![QUT iFive Computing](https://img.shields.io/badge/QUT_iFive_Computing-005A9C?style=for-the-badge&logoColor=white)](https://research.qut.edu.au/ifivecomputing/people/md-mahfujur-rahman/)
 
-### Professional Profiles
+#### Professional Profiles
 
 [![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-sites&logoColor=white)](https://sites.google.com/view/mdmahfujurrahman)
 [![Faculty Profile](https://img.shields.io/badge/Faculty_Profile-006747?style=for-the-badge&logo=google-scholar&logoColor=white)](http://faculty.daffodilvarsity.edu.bd/profile/cse/mahfuj.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfujurrahmanraju/)
 
 
-### Coding Profiles
+#### Coding Profiles
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajuiit)
 [![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/rajuiit/)
@@ -39,7 +39,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajuiit/)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/mahfujurcse)
 
-### Learning and Presentations
+#### Learning and Presentations
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/fc3c61d62b6005b9fd5443c2190e3aec)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/mahfujurrahmanraju/)
