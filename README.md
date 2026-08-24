@@ -6,7 +6,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![Research Focus](https://img.shields.io/badge/Focus-Edge%20AI%20%7C%20EV--EV%20Trading-darkgreen)]
 [![Location](https://img.shields.io/badge/Based%20in-Australia-grey)]
 
-![Citations](https://img.shields.io/badge/Citations-900+-blue) ![h-index](https://img.shields.io/badge/h--index-15-green) ![A★ Conferences](https://img.shields.io/badge/A%E2%98%85%20Conferences-1-orange)
+![Citations](https://img.shields.io/badge/Citations-900+-blue) ![h-index](https://img.shields.io/badge/h--index-15-green) 
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-6-red) ![Expertise](https://img.shields.io/badge/Expert-ML%20%2F%20DL-purple)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
