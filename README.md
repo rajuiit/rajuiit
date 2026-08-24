@@ -79,6 +79,54 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## Research Impact, Scholarships, Awards & Honors
+
+#### Research Impact
+
+- **900+ citations**, **h-index 15**, and **i10-index 18** on [Google Scholar](https://scholar.google.com/citations?user=RYC2dIgAAAAJ&hl=en)
+- **30 research publications** listed on [ResearchGate](https://www.researchgate.net/profile/Md-Rahman-195)
+- Research contributions spanning **EV–EV energy trading, machine learning, deep learning, optimization, blockchain, cybersecurity, and intelligent mobility**
+- Author of research published through **IEEE, Springer, Elsevier, and other international venues**
+
+#### Selected Highly Cited Work
+
+- **Performance Analysis of Machine Learning Approaches in Stroke Prediction**, IEEE ICECA 2020
+- **Combating COVID-19 Using Machine Learning and Deep Learning: Applications, Challenges, and Future Perspectives**, *Array*, Elsevier
+- **Predicting Students’ Performance of Private Universities in Bangladesh Using Machine Learning Approaches**, IJACSA
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
+
+#### Awards and Recognition
+
+- **Best Paper Award**, “A Digital Certificate Forgery Prevention Using Blockchain Technology,” International Conference on Big Data, IoT and Machine Learning (BIM), 2023
+- **Best Paper Award**, “Implementation of Real-Time Automated Attendance System Using Deep Learning,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2021
+- **Best Paper Award – Second Runner-Up**, “Cascade Classification of Face Liveliness Detection Using Heartbeat Measurement,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2020
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
+
+#### Research Affiliations
+
+- **PhD Candidate**, School of Information Systems, Queensland University of Technology
+- **Researcher**, QUT Trusted Networks Lab
+- **Researcher**, QUT Quantum Industry 5.0 Computing Lab
+- **Senior Lecturer**, Department of Computer Science and Engineering, Daffodil International University
+- **Co-Founder**, PROCONF
+
+#### Professional Memberships
+
+- **Graduate Student Member**, Institute of Electrical and Electronics Engineers (IEEE)
+- Reviewer for international journals and conferences
+
+#### Leadership and Academic Service
+
+- **President**, QUT Bangladesh Association, 2024
+- **General Secretary**, QUT Bangladesh Association, 2023
+- **IT and Media Secretary**, QUT Bangladesh Association, 2022
+- **General Secretary**, IEEE Student Branch, Jahangirnagar University, 2015–2016
+- **Mentor**, IEEE DIU Student Branch
+- Convener and committee member for research collaboration, programming, academic projects, and course management at Daffodil International University
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
 ## Technical Expertise
 
