@@ -60,13 +60,11 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajuiit&theme=tokyonight)](https://github.com/rajuiit)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajuiit&theme=tokyonight)](https://github.com/rajuiit)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajuiit&theme=tokyonight&v=2)](https://github.com/rajuiit)
 
 
 
