@@ -120,6 +120,9 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 #### Additional Recognition
 
 - **HDR Design Sprint**, Queensland University of Technology, 2022. [[Certificate](https://drive.google.com/file/d/1GIREZuz1_Ka6AaSZDJ5lKQW5xV1OtU22/view?usp=drive_link)]
+- **Volunteering Recognition**, DC 2024, School of Information Systems, QUT.
+- **Sessional Accomplishment Award**, School of Information Systems, QUT, 2025.
+  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
 
