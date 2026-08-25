@@ -163,7 +163,3 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 📧 mdmahfujur.rahman@hdr.qut.edu.au  
 🔗 LinkedIn: https://www.linkedin.com/in/mahfujurrahmanraju/  
-
----
-
-> Designing scalable, intelligent, and optimization-driven EV-EV trading system.
