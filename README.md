@@ -79,41 +79,56 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Research Impact, Scholarships, Awards & Honors
+## Scholarships, Awards and Honors
 
-#### Research Impact
+#### Best Paper Awards
 
-- **900+ citations**, **h-index 15**, and **i10-index 18** on [Google Scholar](https://scholar.google.com/citations?user=RYC2dIgAAAAJ&hl=en)
-- **30 research publications** listed on [ResearchGate](https://www.researchgate.net/profile/Md-Rahman-195)
-- Research contributions spanning **EV–EV energy trading, machine learning, deep learning, optimization, blockchain, cybersecurity, and intelligent mobility**
-- Author of research published through **IEEE, Springer, Elsevier, and other international venues**
+- **Best Paper Award**, “A Digital Certificate Forgery Prevention Using Blockchain Technology,” International Conference on Big Data, IoT and Machine Learning (BIM), 2023. [[Certificate](https://drive.google.com/file/d/1LVFBiIcv0xy_DTz-HgZ4pf0d_Ww5sViV/view?usp=drive_link)]
+- **Best Paper Award**, “Implementation of Real-Time Automated Attendance System Using Deep Learning,” International Conference on Trends in Computational and Cognitive Engineering (TCCE 2021; proceedings published by Springer in 2022).
+- **Best Paper Award – Second Runner-Up**, “[Cascade Classification of Face Liveliness Detection Using Heart Beat Measurement](https://link.springer.com/chapter/10.1007/978-981-33-4673-4_47),” International Conference on Trends in Computational and Cognitive Engineering (TCCE 2020; proceedings published by Springer in 2021). [[Certificate](https://drive.google.com/file/d/1rSMdo709M38vvnLGFrllpM47LNeLT0PS/view)]
 
-#### Selected Highly Cited Work
+#### Research Publication Awards
 
-- **Performance Analysis of Machine Learning Approaches in Stroke Prediction**, IEEE ICECA 2020
-- **Combating COVID-19 Using Machine Learning and Deep Learning: Applications, Challenges, and Future Perspectives**, *Array*, Elsevier
-- **Predicting Students’ Performance of Private Universities in Bangladesh Using Machine Learning Approaches**, IJACSA
+- **Research Publication Award**, Daffodil International University, 2023 — recognition for publication in a reputable indexed journal.
+- **Research Publication Award**, Daffodil International University, 2022 — recognition for publication in a reputable indexed journal.
+- **Research Publication Award**, Daffodil International University, 2021 — recognition for publication in a reputable indexed journal.
+- **Research Publication Award**, Daffodil International University, 2020 — recognition for publication in a reputable indexed journal.
 
-#### Awards and Recognition
+#### Research Fellowships and Grants
 
-- **Best Paper Award**, “A Digital Certificate Forgery Prevention Using Blockchain Technology,” International Conference on Big Data, IoT and Machine Learning (BIM), 2023
-- **Best Paper Award**, “Implementation of Real-Time Automated Attendance System Using Deep Learning,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2021
-- **Best Paper Award – Second Runner-Up**, “Cascade Classification of Face Liveliness Detection Using Heartbeat Measurement,” International Conference on Trends in Computational and Cognitive Engineering (TCCE), 2020
+- **ICT Research Fellow**, Ministry of Information and Communication Technology, Government of Bangladesh, June 2015–June 2016.
+  - Awarded the **Ministry of Information and Communication Technology Fellowship** to support master’s thesis research.
 
-#### Research Affiliations
+- **Research Assistant**, University Grants Commission of Bangladesh–funded research project.
+  - **Project:** “Secured E-Transcript System Based on Blockchain Technology”
+  - [[Certificate](https://drive.google.com/file/d/15r6jfe1VW9xhCP20pQiW4LK4Fi16U_69/view)]
 
-- **PhD Candidate**, School of Information Systems, Queensland University of Technology
-- **Researcher**, QUT Trusted Networks Lab
-- **Researcher**, QUT Quantum Industry 5.0 Computing Lab
-- **Senior Lecturer**, Department of Computer Science and Engineering, Daffodil International University
-- **Co-Founder**, PROCONF
+#### Scholarships
 
-#### Professional Memberships
+- **Australian Government Research Training Program (RTP) Scholarship** for PhD study at Queensland University of Technology.
+- **Talent Pool Scholarship**, Jahangirnagar University, 2017 — ranked 15th among approximately 2,400 students.
+- **Junior Scholarship**, 2004.
+- **Scholarship Award**, Sherpur District Private School Association, 2000.
+
+#### University Merit Awards
+
+- **Jahangirnagar University Merit Scholarship**, Institute of Information Technology, 2014.
+- **Jahangirnagar University Merit Scholarship**, Institute of Information Technology, 2013.
+- **Jahangirnagar University Merit Scholarship**, Institute of Information Technology, 2012.
+- **Jahangirnagar University Merit Scholarship**, Institute of Information Technology, 2011.
+
+#### Additional Recognition
+
+- **HDR Design Sprint**, Queensland University of Technology, 2022. [[Certificate](https://drive.google.com/file/d/1GIREZuz1_Ka6AaSZDJ5lKQW5xV1OtU22/view?usp=drive_link)]
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider">
+
+## Professional Memberships
 
 - **Graduate Student Member**, Institute of Electrical and Electronics Engineers (IEEE)
 - Reviewer for international journals and conferences
 
-#### Leadership and Academic Service
+## Leadership and Academic Service
 
 - **President**, QUT Bangladesh Association, 2024
 - **General Secretary**, QUT Bangladesh Association, 2023
