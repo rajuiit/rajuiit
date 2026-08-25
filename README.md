@@ -129,7 +129,7 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 - **Languages:** Python | Java | PHP | NodeJs | JavaScript
 - **Framework** Laravel | Express | Flask | Django
 - **Database** MongoDB, MySQL
-- **Core Competencies** - Machine Learning | Data Engineering | MLOps | DevOps | Optimization
+- **Core Competencies** - Machine Learning | Deep Learning | Data Engineering | MLOps | DevOps | Optimization
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
