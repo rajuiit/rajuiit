@@ -7,7 +7,7 @@ Ph.D. Candidate | Queensland University of Technology (QUT), Australia
 [![Location](https://img.shields.io/badge/Based%20in-Australia-grey)]
 
 ![Citations](https://img.shields.io/badge/Citations-900+-blue) ![h-index](https://img.shields.io/badge/h--index-15-green) 
-![Expertise](https://img.shields.io/badge/Expert-ML%20%2F%20DL-purple)
+![Expertise](https://img.shields.io/badge/Expert-ML%20%2F%20DL%20%2F%20Optimization-purple)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
