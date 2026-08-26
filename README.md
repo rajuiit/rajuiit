@@ -128,8 +128,6 @@ I am a Ph.D. candidate in the School of Information Systems at Queensland Univer
 
 ## Professional Memberships
 
-- ****
-
 - **Graduate Student Member**, Institute of Electrical and Electronics Engineers (IEEE)
 - Reviewer for international journals and conferences
 
